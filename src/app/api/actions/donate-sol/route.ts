@@ -49,7 +49,7 @@ export const GET = async (req: Request) => {
     label: "1 SOL",
     title: "Donate SOL",
     description:
-      "This Blink demonstrates how to donate SOL on the Solana blockchain. It is a part of the official Blink Starter Guides by Dialect Labs.",
+      "This Blink is blink",
     // Links is used if you have multiple actions or if you need more than one params
     links: {
       actions: [
